@@ -8,11 +8,9 @@ XGBoost-based binary classification system that predicts whether a breast tumor 
 
 ### 🖥️ Web Interface
 
-<p align="center">
-  <img src="web/web_images/web1.png" width="32%"/>
-  <img src="web/web_images/web2.png" width="32%"/>
-  <img src="web/web_images/web3.png" width="32%"/>
-</p>
+![Web 1](web/web_images/web1.png)
+![Web 2](web/web_images/web2.png)
+![Web 3](web/web_images/web3.png)
 
 ### 📊 Model Analysis Graphs
 
