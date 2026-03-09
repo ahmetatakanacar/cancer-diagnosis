@@ -8,20 +8,21 @@ XGBoost-based binary classification system that predicts whether a breast tumor 
 
 ### 🖥️ Web Interface
 
-![Web 1](web/web_images/web1.png)
-![Web 2](web/web_images/web2.png)
-![Web 3](web/web_images/web3.png)
+<p align="center">
+  <img src="web/web_images/web1.png" width="32%"/>
+  <img src="web/web_images/web2.png" width="32%"/>
+  <img src="web/web_images/web3.png" width="32%"/>
+</p>
 
 ### 📊 Model Analysis Graphs
 
-**1. Feature Correlation with Target**
-![Correlation](model_graphs/corr.png)
-
-**2. Tumor Distribution**
-![Distribution](model_graphs/distribution.png)
-
-**3. Concave Points vs Perimeter (Scatter)**
-![Scatter](model_graphs/scatter.png)
+<p align="center">
+  <img src="model_graphs/corr.png" width="49%"/>
+  <img src="model_graphs/scatter.png" width="49%"/>
+</p>
+<p align="center">
+  <img src="model_graphs/distribution.png" width="40%"/>
+</p>
 
 ---
 
